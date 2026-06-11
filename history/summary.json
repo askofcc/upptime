@@ -4,19 +4,20 @@
     "url": "https://uptime.ma.edu.kg/",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.ma.edu.kg.ico",
     "slug": "ma-education",
-    "status": "down",
-    "uptime": "3.16%",
-    "uptimeDay": "3.16%",
-    "uptimeWeek": "3.16%",
-    "uptimeMonth": "3.16%",
-    "uptimeYear": "3.16%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "status": "up",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-06-10": 7
+      "2026-06-11": 607,
+      "2026-06-10": 612
     }
   }
 ]
