@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.ma.edu.kg.ico",
     "slug": "ma-education",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.54%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "97.54%",
     "time": 840,
     "timeDay": 754,
     "timeWeek": 890,
@@ -17,7 +17,8 @@
     "timeYear": 840,
     "dailyMinutesDown": {
       "2026-06-11": 607,
-      "2026-06-10": 612
+      "2026-06-10": 612,
+      "2026-07-17": 86
     }
   }
 ]
